@@ -16,7 +16,7 @@ Frontend Engineer based in Japan 🇯🇵
 
 ### 🌱 Currently
 - Deepening knowledge in system design
-- Building personal projects to expand my portfolio
+- Continuously improving my frontend development skills
 
 ### 📫 Contact
 - LinkedIn: [Su Hlaing Hnin](https://www.linkedin.com/in/su-hlaing-hnin-997bb4116/)
