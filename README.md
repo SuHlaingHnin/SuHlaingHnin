@@ -4,10 +4,9 @@ Frontend Engineer with experience building scalable web applications using React
 Previously worked in game development, bringing strong problem-solving skills and performance awareness.
 
 ### 🛠 Tech Stack
-- React / Next.js
-- TypeScript
-- Tailwind CSS
-- React Query
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS  
+- **State & Data:** React Query, Jotai  
+- **Other:** JavaScript, C#, Unity, Cocos Creator
 
 ### 💼 Experience
 - Working on an audit management system
