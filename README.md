@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Su 👋
 
-<!--
-**SuHlaingHnin/SuHlaingHnin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Engineer based in Japan 🇯🇵
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- React / Next.js
+- TypeScript
+- Tailwind CSS
+- React Query
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Experience
+- Working on an audit management system
+- Building scalable frontend features
+- Handling dynamic UI and data-heavy components
+- Improving performance and user experience
+
+### 🌱 Currently
+- Deepening knowledge in system design
+- Building personal projects to expand my portfolio
+
+### 📫 Contact
+- LinkedIn: [Su Hlaing Hnin](https://www.linkedin.com/in/su-hlaing-hnin-997bb4116/)
