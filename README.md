@@ -1,6 +1,7 @@
 ## Hi, I'm Su 👋
 
-Frontend Engineer based in Japan 🇯🇵
+Frontend Engineer with experience building scalable web applications using React and Next.js. 
+Previously worked in game development, bringing strong problem-solving skills and performance awareness.
 
 ### 🛠 Tech Stack
 - React / Next.js
